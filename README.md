@@ -2,6 +2,9 @@
 
 ![Design preview for the QR code component coding challenge](https://fabriciosobral.com.br/challenges/frontend-qr-code/images/desktop-preview.jpg)
 
+# ONLINE DEMO
+(https://fabriciosobral.com.br/challenges/frontend-qr-code/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
